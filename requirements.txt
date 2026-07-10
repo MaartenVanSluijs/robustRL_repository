@@ -1,0 +1,18 @@
+
+#Repo imports
+C:\Users\maart\Documents\Studie\Vakken\Thesis\Code\Repos\Robust-Gymnasium-main
+
+#Other imports
+pillow
+gymnasium[mujoco]
+openai
+numba
+pettingzoo
+
+opencv-python
+pandas
+torch
+scipy
+seaborn
+
+wandb
