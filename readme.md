@@ -1,6 +1,7 @@
 ### Robust reinforcement learning
 This repository is made to evaluate the robustness of reinforcement learning (RL).
 
+---
 #### Description
 The repo provides a centralized system of evaluating RL agents on MuJoCo environments, with functionality for adding mismatches in the evaluation environments. Furthermore, it provides a set of pre-implemented robust RL agents built upon the PPO and DDPG algorithms. Lastly, this repository also includes trained models and evaluation results from several experiments evaluating the robustness of the agents.
 
@@ -26,6 +27,7 @@ and install the requirements:
 pip install -r requirements.txt
 ```
 
+---
 #### CLI usage
 ```sh
 # Train an agent (e.g. base agent)
